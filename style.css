@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lobster', cursive;
+    margin: 100px;
+    background-image: url("images/Eagle.jpeg");
+    background-size: cover;
+}
+
+.tourism {
+    border-radius: 20px;
+    padding: 10px 10px;
+    background: white;
+    margin: 0px auto;
+    width: 400px;
+    justify-content: space-around;
+    font-style: Italic; 
+    text-shadow: 0px 0px 1px black;
+}
+
+#kak {
+    width: 400PX;
+    border-radius: 200px;
+    border: 2px solid yellow;
+}
+
+#castle {
+    width: 400px;
+    border-radius: 200px;
+    border: 2px solid yellow;
+}
+
+#beach {
+    width: 400px;
+    border-radius: 200px;
+    border: 2px solid yellow;
+}
+
+#food {
+    width: 400px;
+    border-radius: 50px;
+    border: 2px solid yellow;
+}
